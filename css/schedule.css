@@ -1,0 +1,20 @@
+body {
+    background-color: #f8f9fa;
+    font-family: Arial, sans-serif;
+  }
+  .container {
+    margin-top: 50px;
+  }
+  .schedule-item {
+    margin-bottom: 30px;
+  }
+  .schedule-item img {
+    max-width: 100%;
+    height: auto;
+  }
+  .schedule-item h3 {
+    margin-top: 10px;
+  }
+  .schedule-item p {
+    margin-bottom: 0;
+  }

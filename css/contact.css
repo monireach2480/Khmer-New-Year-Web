@@ -1,0 +1,31 @@
+
+.contact-form {
+    width: 50%;
+    margin: 0 auto;
+}
+.contact-form label {
+    display: block;
+    margin-bottom: 10px;
+}
+.contact-form input[type="text"],
+.contact-form input[type="tel"],
+.contact-form input[type="email"],
+.contact-form textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+.contact-form input[type="submit"] {
+    width: 100%;
+    padding: 10px;
+    background-color: #333;
+    color: #fff;
+    border: none;
+}
+
+.google-map {
+    margin-top: 20px;
+    text-align: center;
+}
+
+
